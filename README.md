@@ -41,7 +41,7 @@ This project focuses on analyzing pizza sales data to uncover key business insig
 
 ## Technologies Used
 - Microsoft Excel (data source)
-- SQL (data extraction and transformation)
+- SQL Server Management Studio (data extraction and transformation)
 - Microsoft Power BI (interactive dashboard and visualization)
 
 ## Skills Demonstrated
