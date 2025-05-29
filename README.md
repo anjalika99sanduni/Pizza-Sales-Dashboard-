@@ -50,11 +50,21 @@ This project focuses on analyzing pizza sales data to uncover key business insig
 - Interactive Dashboard Design
 - Business Intelligence and Data Visualization
 
+---
+
+## Dashboard Preview
+
+### Page 1
+![Overview Page](PAGE_1.PNG "Overview Page")
+
+### Page 2
+![WT20Is Performance](PAGE_2.PNG "WT20Is Performance")
+
+---
 ## How to Use
 1. Download the Power BI report file (.pbix) from this repository.
 2. Open the file in Power BI Desktop.
 3. Interact with the dashboard to explore sales trends, KPIs, and product performance.
-
 
 ---
 
